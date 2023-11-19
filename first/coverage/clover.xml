@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1698075977861" clover="3.2.0">
+  <project timestamp="1698075977861" name="All files">
+    <metrics statements="4" coveredstatements="3" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1" elements="8" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+    <file name="utils.ts" path="/Users/eli/Desktop/JEST_UNIT_TEST/first/src/app/utils.ts">
+      <metrics statements="4" coveredstatements="3" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="cond" truecount="3" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
